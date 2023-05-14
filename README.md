@@ -10,7 +10,7 @@ You will also need to add your OpenAI API key to the `.env` file.
 
 ## Usage
 
-To use the application, run the `main.py` file with the streamlit CLI (after having installed streamlit): 
+To use the application, run the `pdf_explorer.py` file with the streamlit CLI: 
 
 ```
 streamlit run pdf_explorer.py
